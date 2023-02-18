@@ -1,0 +1,10 @@
+Whatt do you notice about the final ordering of the map vs the unodered_map?
+
+
+What does this suggest about the underlying data structures?
+
+
+
+What happens to the load factor as you add items to the unordered_map?  Explain why this happens.
+
+
